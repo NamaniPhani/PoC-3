@@ -1,0 +1,8 @@
+Id,JobTitle,JobDescription,country,state,availability,replyrate,payrate,experience,skills,language,jobtype
+1,Rama, Krishna,india,mi,part,2,1,7,java,marata,dev
+2,Gopal, Krishna,aus,rcb,full,6,2,6,.net,kanada,test
+3,Radha, Krishna,nz,kkr,mid,4,3,5,python,malyal,ux
+4,Alif, Laila,pak,mh,nit,8,4,4,haddop,tamil,design
+5,srikanth,balugam,lon,bengal,shift,5,5,3,bigdata,english,program
+6,ravi, bakki,africa,ap,noon,2,6,2,ui,telugu,deve
+7,naveen, challa,zimbabe,ts,evng,1,7,1,devops,hindi,qat
