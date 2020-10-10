@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+	<student>
+		<id>1</id>
+		<name>nagarani</name>
+		<salary>4332321</salary>
+		<compName>ojas</compName>
+	</student>
+	<student>
+		<id>2</id>
+		<name>mounika</name>
+		<salary>5453</salary>
+		<compName>ojas</compName>
+	</student>
+</students>
